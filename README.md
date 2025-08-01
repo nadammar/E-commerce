@@ -16,6 +16,7 @@ This project was completed during my internship at **VastSky, Tunis,Tunisia (Jun
   * **Item-based Collaborative Filtering:** Suggests products similar to those the user has interacted with.
   * **User-based Collaborative Filtering:** Recommends products liked by similar users.
 
+![Interface](screenshot/dash-e-commerce.png)
 ---
 
 ## 🛠️ Tools & Technologies
